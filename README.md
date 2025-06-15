@@ -18,11 +18,10 @@ A simple desktop application to manage employee records, built using **Python**,
 
 Make sure Python 3 is installed.
 
-```bash
-python login.py
+## 📸 Screenshots
 
-### 🔐 Login Screen
+### 🔐 Login Screen  
 ![Login Screen](screenshots/loginpy.png)
 
-### 🧾 Employee Dashboard
+### 🧾 Employee Dashboard  
 ![Employee System](screenshots/employee_sys.png)
